@@ -6,5 +6,6 @@
 * 使用UIButton建立按鈕並加上程式碼
 * 變更按鈕顏色
 * 運用UIAlertController與UIAlertAction
+* 將視圖控制器的視圖的背景變成黑色
 
 ![image](http://g.recordit.co/g8Pz19HTVc.gif)
