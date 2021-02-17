@@ -1,6 +1,6 @@
 # My Swift Learning Project
 
-# 01 - emojiDict
+## 01 - emojiDict
 
 ●設計使用者介面
 
