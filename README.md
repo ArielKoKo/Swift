@@ -7,4 +7,4 @@
 * 變更按鈕顏色
 * 運用UIAlertController與UIAlertAction
 
-![image] (http://g.recordit.co/g8Pz19HTVc.gif)
+![image](http://g.recordit.co/g8Pz19HTVc.gif)
