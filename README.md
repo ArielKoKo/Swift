@@ -18,7 +18,6 @@
 ![image](http://g.recordit.co/eqONhuhUiC.gif)
 ![image](http://g.recordit.co/HN0vJXzTnt.gif)
 
-## 03 - 
+## 03 - 使用堆疊視圖設計UI
 
-* 使用堆疊視圖設計UI
 ![image](https://github.com/ArielKoKo/Swift/blob/main/PHOTO%20%26%20GIF/03_StackViewDemo.png)
