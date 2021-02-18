@@ -13,3 +13,5 @@
 ## 02 - Hello World
 
 * 使用Auto Layout建立一個支援各種螢幕解析度的App
+
+![image](http://g.recordit.co/JACGay7Zus.gif)
