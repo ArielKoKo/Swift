@@ -7,27 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1841450225B6CEB400322734 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1841450125B6CEB400322734 /* AppDelegate.swift */; };
-		1841450425B6CEB400322734 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1841450325B6CEB400322734 /* SceneDelegate.swift */; };
-		1841450625B6CEB400322734 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1841450525B6CEB400322734 /* ViewController.swift */; };
-		1841450925B6CEB400322734 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1841450725B6CEB400322734 /* Main.storyboard */; };
-		1841450B25B6CEB800322734 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1841450A25B6CEB800322734 /* Assets.xcassets */; };
-		1841450E25B6CEB800322734 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1841450C25B6CEB800322734 /* LaunchScreen.storyboard */; };
+		184021DE25B5708D004B0CDD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184021DD25B5708D004B0CDD /* AppDelegate.swift */; };
+		184021E025B5708D004B0CDD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184021DF25B5708D004B0CDD /* SceneDelegate.swift */; };
+		184021E225B5708D004B0CDD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184021E125B5708D004B0CDD /* ViewController.swift */; };
+		184021E525B5708D004B0CDD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 184021E325B5708D004B0CDD /* Main.storyboard */; };
+		184021E725B57091004B0CDD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 184021E625B57091004B0CDD /* Assets.xcassets */; };
+		184021EA25B57091004B0CDD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 184021E825B57091004B0CDD /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		184144FE25B6CEB400322734 /* emojiDict.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = emojiDict.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		1841450125B6CEB400322734 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		1841450325B6CEB400322734 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		1841450525B6CEB400322734 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		1841450825B6CEB400322734 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		1841450A25B6CEB800322734 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		1841450D25B6CEB800322734 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		1841450F25B6CEB800322734 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		184021DA25B5708D004B0CDD /* HelloWorld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloWorld.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		184021DD25B5708D004B0CDD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		184021DF25B5708D004B0CDD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		184021E125B5708D004B0CDD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		184021E425B5708D004B0CDD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		184021E625B57091004B0CDD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		184021E925B57091004B0CDD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		184021EB25B57091004B0CDD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		184144FB25B6CEB400322734 /* Frameworks */ = {
+		184021D725B5708D004B0CDD /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,72 +37,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		184144F525B6CEB400322734 = {
+		184021D125B5708D004B0CDD = {
 			isa = PBXGroup;
 			children = (
-				1841450025B6CEB400322734 /* emojiDict */,
-				184144FF25B6CEB400322734 /* Products */,
+				184021DC25B5708D004B0CDD /* HelloWorld */,
+				184021DB25B5708D004B0CDD /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		184144FF25B6CEB400322734 /* Products */ = {
+		184021DB25B5708D004B0CDD /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				184144FE25B6CEB400322734 /* emojiDict.app */,
+				184021DA25B5708D004B0CDD /* HelloWorld.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		1841450025B6CEB400322734 /* emojiDict */ = {
+		184021DC25B5708D004B0CDD /* HelloWorld */ = {
 			isa = PBXGroup;
 			children = (
-				1841450125B6CEB400322734 /* AppDelegate.swift */,
-				1841450325B6CEB400322734 /* SceneDelegate.swift */,
-				1841450525B6CEB400322734 /* ViewController.swift */,
-				1841450725B6CEB400322734 /* Main.storyboard */,
-				1841450A25B6CEB800322734 /* Assets.xcassets */,
-				1841450C25B6CEB800322734 /* LaunchScreen.storyboard */,
-				1841450F25B6CEB800322734 /* Info.plist */,
+				184021DD25B5708D004B0CDD /* AppDelegate.swift */,
+				184021DF25B5708D004B0CDD /* SceneDelegate.swift */,
+				184021E125B5708D004B0CDD /* ViewController.swift */,
+				184021E325B5708D004B0CDD /* Main.storyboard */,
+				184021E625B57091004B0CDD /* Assets.xcassets */,
+				184021E825B57091004B0CDD /* LaunchScreen.storyboard */,
+				184021EB25B57091004B0CDD /* Info.plist */,
 			);
-			path = "emojiDict";
+			path = HelloWorld;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		184144FD25B6CEB400322734 /* emojiDict */ = {
+		184021D925B5708D004B0CDD /* HelloWorld */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1841451225B6CEB800322734 /* Build configuration list for PBXNativeTarget "emojiDict" */;
+			buildConfigurationList = 184021EE25B57091004B0CDD /* Build configuration list for PBXNativeTarget "HelloWorld" */;
 			buildPhases = (
-				184144FA25B6CEB400322734 /* Sources */,
-				184144FB25B6CEB400322734 /* Frameworks */,
-				184144FC25B6CEB400322734 /* Resources */,
+				184021D625B5708D004B0CDD /* Sources */,
+				184021D725B5708D004B0CDD /* Frameworks */,
+				184021D825B5708D004B0CDD /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = emojiDict;
-			productName = "emojiDict";
-			productReference = 184144FE25B6CEB400322734 /* emojiDict.app */;
+			name = HelloWorld;
+			productName = HelloWorld;
+			productReference = 184021DA25B5708D004B0CDD /* HelloWorld.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		184144F625B6CEB400322734 /* Project object */ = {
+		184021D225B5708D004B0CDD /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1160;
 				LastUpgradeCheck = 1160;
 				ORGANIZATIONNAME = ArielKo;
 				TargetAttributes = {
-					184144FD25B6CEB400322734 = {
+					184021D925B5708D004B0CDD = {
 						CreatedOnToolsVersion = 11.6;
 					};
 				};
 			};
-			buildConfigurationList = 184144F925B6CEB400322734 /* Build configuration list for PBXProject "emojiDict" */;
+			buildConfigurationList = 184021D525B5708D004B0CDD /* Build configuration list for PBXProject "HelloWorld" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,55 +110,55 @@
 				en,
 				Base,
 			);
-			mainGroup = 184144F525B6CEB400322734;
-			productRefGroup = 184144FF25B6CEB400322734 /* Products */;
+			mainGroup = 184021D125B5708D004B0CDD;
+			productRefGroup = 184021DB25B5708D004B0CDD /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				184144FD25B6CEB400322734 /* emojiDict */,
+				184021D925B5708D004B0CDD /* HelloWorld */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		184144FC25B6CEB400322734 /* Resources */ = {
+		184021D825B5708D004B0CDD /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1841450E25B6CEB800322734 /* LaunchScreen.storyboard in Resources */,
-				1841450B25B6CEB800322734 /* Assets.xcassets in Resources */,
-				1841450925B6CEB400322734 /* Main.storyboard in Resources */,
+				184021EA25B57091004B0CDD /* LaunchScreen.storyboard in Resources */,
+				184021E725B57091004B0CDD /* Assets.xcassets in Resources */,
+				184021E525B5708D004B0CDD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		184144FA25B6CEB400322734 /* Sources */ = {
+		184021D625B5708D004B0CDD /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1841450625B6CEB400322734 /* ViewController.swift in Sources */,
-				1841450225B6CEB400322734 /* AppDelegate.swift in Sources */,
-				1841450425B6CEB400322734 /* SceneDelegate.swift in Sources */,
+				184021E225B5708D004B0CDD /* ViewController.swift in Sources */,
+				184021DE25B5708D004B0CDD /* AppDelegate.swift in Sources */,
+				184021E025B5708D004B0CDD /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		1841450725B6CEB400322734 /* Main.storyboard */ = {
+		184021E325B5708D004B0CDD /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				1841450825B6CEB400322734 /* Base */,
+				184021E425B5708D004B0CDD /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		1841450C25B6CEB800322734 /* LaunchScreen.storyboard */ = {
+		184021E825B57091004B0CDD /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				1841450D25B6CEB800322734 /* Base */,
+				184021E925B57091004B0CDD /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		1841451025B6CEB800322734 /* Debug */ = {
+		184021EC25B57091004B0CDD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -226,7 +226,7 @@
 			};
 			name = Debug;
 		};
-		1841451125B6CEB800322734 /* Release */ = {
+		184021ED25B57091004B0CDD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -280,34 +280,34 @@
 			};
 			name = Release;
 		};
-		1841451325B6CEB800322734 /* Debug */ = {
+		184021EF25B57091004B0CDD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = "emojiDict/Info.plist";
+				INFOPLIST_FILE = HelloWorld/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.arielko.S3-Homework--2";
+				PRODUCT_BUNDLE_IDENTIFIER = com.arielko.HelloWorld;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		1841451425B6CEB800322734 /* Release */ = {
+		184021F025B57091004B0CDD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = "emojiDict/Info.plist";
+				INFOPLIST_FILE = HelloWorld/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.arielko.S3-Homework--2";
+				PRODUCT_BUNDLE_IDENTIFIER = com.arielko.HelloWorld;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -317,25 +317,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		184144F925B6CEB400322734 /* Build configuration list for PBXProject "emojiDict" */ = {
+		184021D525B5708D004B0CDD /* Build configuration list for PBXProject "HelloWorld" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1841451025B6CEB800322734 /* Debug */,
-				1841451125B6CEB800322734 /* Release */,
+				184021EC25B57091004B0CDD /* Debug */,
+				184021ED25B57091004B0CDD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1841451225B6CEB800322734 /* Build configuration list for PBXNativeTarget "emojiDict" */ = {
+		184021EE25B57091004B0CDD /* Build configuration list for PBXNativeTarget "HelloWorld" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1841451325B6CEB800322734 /* Debug */,
-				1841451425B6CEB800322734 /* Release */,
+				184021EF25B57091004B0CDD /* Debug */,
+				184021F025B57091004B0CDD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 184144F625B6CEB400322734 /* Project object */;
+	rootObject = 184021D225B5708D004B0CDD /* Project object */;
 }

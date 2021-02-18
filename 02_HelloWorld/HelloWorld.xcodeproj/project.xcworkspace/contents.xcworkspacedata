@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:/Users/apple/Desktop/git_proj/01_emojiDict/emojiDict.xcodeproj">
+      location = "self:HelloWorld.xcodeproj">
    </FileRef>
 </Workspace>
