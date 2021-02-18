@@ -9,3 +9,7 @@
 * 將視圖控制器的視圖的背景變成黑色
 
 ![image](http://g.recordit.co/g8Pz19HTVc.gif)
+
+## 02 - Hello World
+
+* 使用Auto Layout建立一個支援各種螢幕解析度的App
