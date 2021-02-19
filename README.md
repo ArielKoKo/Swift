@@ -67,9 +67,10 @@
 
 ![image](http://g.recordit.co/SOc4gSRjDh.gif)
 
+#### 基礎動畫
+* 滑入動畫
 
-
-
+![image](http://g.recordit.co/R1vKXa4fFF.gif)
 
 
 
