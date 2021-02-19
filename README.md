@@ -97,12 +97,12 @@
 
 ![image](http://g.recordit.co/dNRZ4biTNp.gif)
 
+### 在App中顯示網頁內容
+* Mobile Safari
+* UIWebView / WKWebView
+* SFSafariViewController
 
-
-
-
-
-
+![image](http://g.recordit.co/yzIa6S38ps.gif) ![image](http://g.recordit.co/gYLYYP1CGB.gif) ![image](http://g.recordit.co/Er6w9ebjnY.gif)
 
 
 
