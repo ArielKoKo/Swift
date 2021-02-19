@@ -30,6 +30,22 @@
 
 ![image](http://g.recordit.co/WD0DfyORda.gif)
 
-* 使用 Prototype Cell 自訂表格視圖
+* 使用Prototype Cell自訂表格視圖
 
 ![image](http://g.recordit.co/lCrTzPlHr2.gif)
+
+## 05 - Food Pin
+
+* 使用UIAlertController與表格視圖互動
+
+
+
+
+
+
+
+
+
+
+
+
