@@ -29,3 +29,7 @@
 * 隱藏狀態列
 
 ![image](http://g.recordit.co/WD0DfyORda.gif)
+
+* 使用 Prototype Cell 自訂表格視圖
+
+![image](http://g.recordit.co/lCrTzPlHr2.gif)
