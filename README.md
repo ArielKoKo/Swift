@@ -55,8 +55,9 @@
 
 #### 導覽控制器
 * 運用導覽控制器覽到下一個顯示細節內容的畫面
+* 自訂導覽列
 
 ![image](http://g.recordit.co/Jr03WP0Tjp.gif)
-
+![image](http://g.recordit.co/V0ve7FMhIp.gif
 
 
