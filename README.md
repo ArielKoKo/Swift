@@ -36,7 +36,7 @@
 
 ## 05 - Food Pin
 
-### 使用UIAlertController與表格視圖互動
+#### 使用UIAlertController與表格視圖互動
 * 當使用者點擊一個Cell時，選單會提供兩種選項:打電話、(Call)與打卡(Check- in )
 * 當使用者選擇打電話、(Call)，顯示一個提示視窗
 * 當使用者選擇打卡(Check-in)，顯示一個打勾圖示
