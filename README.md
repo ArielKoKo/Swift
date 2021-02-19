@@ -47,12 +47,16 @@
 * 使用者在表格上用手指向右水平滑動，讓「Delete」與「Share」按鈕出現，使用UIContextualAction滑動來帶出其他動作
   * 點擊「Delete」按鈕刪除列
   * 點擊「Share」按鈕帶出分享選單，選擇拷貝內容至剪貼簿並貼上至系統的訊息App
+
 * 使用者在表格上用手指向左水平滑動
-  * 點擊「✔️」按鈕顯示一個打勾圖示
+  * 點擊「✔️」按鈕顯示一個愛心圖示
 
-![image](http://g.recordit.co/DQGX3j8nsM.gif)
+![image](http://g.recordit.co/IqlUHxMujg.gif)
 
+#### 導覽控制器
+* 運用導覽控制器覽到下一個顯示細節內容的畫面
 
+![image](http://g.recordit.co/Jr03WP0Tjp.gif)
 
 
 
