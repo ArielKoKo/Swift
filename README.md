@@ -43,10 +43,12 @@
 
 ![image](http://g.recordit.co/nED0m4MsfG.gif)
 
+#### 表格列滑動刪除、動態控制器
+* 使用者在表格上用手指水平滑動一下，讓「Delete」與「Share」按鈕出現，使用UIContextualAction滑動來帶出其他動作
+* 點擊「Delete」按鈕刪除列
+* 點擊「Share」按鈕帶出分享選單，選擇拷貝內容至剪貼簿並貼上至系統的訊息App
 
-
-
-
+![image](http://g.recordit.co/DQGX3j8nsM.gif)
 
 
 
