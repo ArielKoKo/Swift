@@ -74,7 +74,11 @@
 
 
 
+#### 靜態表格視圖
+* 使用靜態表格視圖(Static Table View)建立表單
+* 使用 UIImagePickerController 來從內建的照片庫選擇照片
 
+![image](http://g.recordit.co/zAHnPnBNRq.gif)
 
 
 
