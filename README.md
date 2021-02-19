@@ -28,4 +28,4 @@
 * 加入縮圖
 * 隱藏狀態列
 
-[image](http://g.recordit.co/WD0DfyORda.gif)
+![image](http://g.recordit.co/WD0DfyORda.gif)
