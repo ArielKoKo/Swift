@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1018A700-562C-45DE-9F10-5CAAAB40613B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7BC6594A-9EA5-43EA-80ED-DBD5A9457DC6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "S8 Homework #1/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "7BC6594A-9EA5-43EA-80ED-DBD5A9457DC6 - 786f953020011902"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "S8_Homework__1.ViewController.restaurantImages.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "S8 Homework #1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/swift%20ios/S8%20Homework%20%231/S8%20Homework%20%231/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "7BC6594A-9EA5-43EA-80ED-DBD5A9457DC6 - 9a1d25ff31e7a51e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "S8_Homework__1.ViewController.restaurantImages.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "S8 Homework #1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/swift%20ios/S8%20Homework%20%231/S8%20Homework%20%231/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "7BC6594A-9EA5-43EA-80ED-DBD5A9457DC6 - a0c8b12e4c1aca0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "S8_Homework__1.ViewController.restaurantImages.modify : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "S8 Homework #1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/swift%20ios/S8%20Homework%20%231/S8%20Homework%20%231/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "7BC6594A-9EA5-43EA-80ED-DBD5A9457DC6 - edb1de671a88a76b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "S8_Homework__1.ViewController.restaurantImages.modify : Swift.Array&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "S8 Homework #1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/swift%20ios/S8%20Homework%20%231/S8%20Homework%20%231/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "7BC6594A-9EA5-43EA-80ED-DBD5A9457DC6 - 63d2852b250deb53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "S8_Homework__1.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; S8_Homework__1.ViewController"
+                  moduleName = "S8 Homework #1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/swift%20ios/S8%20Homework%20%231/S8%20Homework%20%231/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "1168">
+               </Location>
+               <Location
+                  uuid = "7BC6594A-9EA5-43EA-80ED-DBD5A9457DC6 - e2df56bdd1f8117"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "S8_Homework__1.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;S8_Homework__1.ViewController&gt;"
+                  moduleName = "S8 Homework #1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/swift%20ios/S8%20Homework%20%231/S8%20Homework%20%231/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "1103">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
