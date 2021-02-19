@@ -49,7 +49,8 @@
   * 點擊「Share」按鈕帶出分享選單，選擇拷貝內容至剪貼簿並貼上至系統的訊息App
 
 * 使用者在表格上用手指向左水平滑動
-  * 點擊「✔️」按鈕顯示一個愛心圖示
+  * 點擊check-in「✔️」按鈕顯示一個愛心圖示
+  * 點擊check-in「↩」按鈕取消愛心圖示
 
 ![image](http://g.recordit.co/IqlUHxMujg.gif)
 
@@ -57,6 +58,6 @@
 * 運用導覽控制器覽到下一個顯示細節內容的畫面
 * 自訂導覽列
 
-![image](http://g.recordit.co/Jr03WP0Tjp.gif) ![image](http://g.recordit.co/qE9EUp6pPb.gif)
+![image](http://g.recordit.co/qE9EUp6pPb.gif)
 
 
