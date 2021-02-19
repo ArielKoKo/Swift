@@ -22,3 +22,10 @@
 
 ![image](https://github.com/ArielKoKo/Swift/blob/main/PHOTO%20%26%20GIF/03_StackViewDemo.png)
 ![image](https://github.com/ArielKoKo/Swift/blob/main/PHOTO%20%26%20GIF/03_Ask%20Me%20Anything.png)
+
+## 04 - 建立UITableView表格視圖
+
+* 加入縮圖
+* 隱藏狀態列
+
+[image](http://g.recordit.co/WD0DfyORda.gif)
