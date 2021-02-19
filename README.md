@@ -41,7 +41,7 @@
 * 當使用者選擇打電話、(Call)，顯示一個提示視窗
 * 當使用者選擇打卡(Check-in)，顯示一個打勾圖示
 
-
+![image](http://g.recordit.co/pZQYVz94jX.gif)
 
 
 
