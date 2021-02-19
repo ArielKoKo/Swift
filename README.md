@@ -36,14 +36,14 @@
 
 ## 05 - Food Pin
 
-#### 使用UIAlertController與表格視圖互動
+### 使用UIAlertController與表格視圖互動
 * 當使用者點擊一個Cell時，選單會提供兩種選項:打電話、(Call)與打卡(Check- in )
 * 當使用者選擇打電話、(Call)，顯示一個提示視窗
 * 當使用者選擇打卡(Check-in)，顯示一個打勾圖示
 
 ![image](http://g.recordit.co/nED0m4MsfG.gif)
 
-#### 表格列滑動刪除、動態控制器
+### 表格列滑動刪除、動態控制器
 * 使用者在表格上用手指向右水平滑動，讓「Delete」與「Share」按鈕出現，使用UIContextualAction滑動來帶出其他動作
   * 點擊「Delete」按鈕刪除列
   * 點擊「Share」按鈕帶出分享選單，選擇拷貝內容至剪貼簿並貼上至系統的訊息App
@@ -54,20 +54,20 @@
 
 ![image](http://g.recordit.co/IqlUHxMujg.gif)
 
-#### 導覽控制器
+### 導覽控制器
 * 運用導覽控制器覽到下一個顯示細節內容的畫面
 * 自訂導覽列
 
 ![image](http://g.recordit.co/qE9EUp6pPb.gif)
 
-#### MapKit框架
+### MapKit框架
 * 加入地圖介面
 * 利用地理編碼器將地址轉換為座標
 * 自訂標註
 
 ![image](http://g.recordit.co/SOc4gSRjDh.gif)
 
-#### 基礎動畫
+### 基礎動畫
 * 滑入動畫
 
 ![image](http://g.recordit.co/R1vKXa4fFF.gif)
@@ -81,8 +81,8 @@
 ![image](http://g.recordit.co/zAHnPnBNRq.gif)
 
 
-
-
+### 建立UISearchController搜尋列
+* 利用搜尋列搜尋相關詞字
 
 
 
