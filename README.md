@@ -92,4 +92,24 @@
 
 ![image](http://g.recordit.co/hda5gbPmc3.gif)
 
+### 建立Tab Bar Controller標籤列控制器
+* 使用介面建構器來嵌入一組視圖控制器至標籤列控制器
+
+![image](http://g.recordit.co/dNRZ4biTNp.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
