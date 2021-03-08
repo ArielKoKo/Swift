@@ -104,10 +104,10 @@
 
 ![image](http://g.recordit.co/yzIa6S38ps.gif) ![image](http://g.recordit.co/gYLYYP1CGB.gif) ![image](http://g.recordit.co/Er6w9ebjnY.gif)
 
+## 06 -  AdaptiveUI自適應使用者介面
+* 使用Storyboard來進行使用者介面元件的佈局，並且學習如何使用Auto Layout以及尺寸類別來讓UI可以自適應。
 
-
-
-
+![image]
 
 
 
