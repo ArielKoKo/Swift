@@ -107,7 +107,8 @@
 ## 06 -  AdaptiveUI自適應使用者介面
 * 使用Storyboard來進行使用者介面元件的佈局，並且學習如何使用Auto Layout以及尺寸類別來讓UI可以自適應。
 
-![image]
+![image](https://github.com/ArielKoKo/Swift/blob/main/PHOTO%20%26%20GIF/06_AdaptiveUIDemo-1.png)
+![image](https://github.com/ArielKoKo/Swift/blob/main/PHOTO%20%26%20GIF/06_AdaptiveUIDemo-2.png)
 
 
 
