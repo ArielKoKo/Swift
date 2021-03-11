@@ -116,6 +116,10 @@
 
 ![image](http://g.recordit.co/lrTYN0Vgb5.gif)
 
+## 08 - TableCellAnimation
+* 讓表格視圖Cell動起來，透過加入一些精緻的動畫來讓App更生動活潑。
+** 淡入動畫
+
 
 
 
