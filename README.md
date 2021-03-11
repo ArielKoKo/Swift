@@ -111,7 +111,8 @@
 ![image](https://github.com/ArielKoKo/Swift/blob/main/PHOTO%20%26%20GIF/06_AdaptiveUIDemo-2.png)
 
 ## 07 - IndexedTable
-* 在UITableView加入區塊與索引列表
+* 在UITableView加入區塊，將相關資料群組在一起，可以提供使用者更佳的資料存取方式。
+* 在表格視圖的右邊有包含一個索引列表，使用者可以在不需要滑動每一個區塊的情況下，迅速存取特定的表格區塊。
 
 ![image](http://g.recordit.co/lrTYN0Vgb5.gif)
 
