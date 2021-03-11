@@ -113,7 +113,7 @@
 ## 07 - IndexedTable
 * 在UITableView加入區塊與索引列表
 
-![image](http://g.recordit.co/lrTYN0Vgb5.gif
+![image](http://g.recordit.co/lrTYN0Vgb5.gif)
 
 
 
