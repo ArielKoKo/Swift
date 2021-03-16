@@ -130,7 +130,7 @@
 
     ![image](http://g.recordit.co/xOvL5n7z9A.gif)
 
-## 09 - JSON 與 Codable
+## 09 - 運用JSON 與 Codable 建立 KivaLoan
 
 * 建⽴JSON資料模型
 * 使用API取得資料
