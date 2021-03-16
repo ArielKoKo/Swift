@@ -23,7 +23,7 @@
 ![image](https://github.com/ArielKoKo/Swift/blob/main/PHOTO%20%26%20GIF/03_StackViewDemo.png)
 ![image](https://github.com/ArielKoKo/Swift/blob/main/PHOTO%20%26%20GIF/03_Ask%20Me%20Anything.png)
 
-## 04 - 建立UITableView表格視圖
+## 04 - 建立 UITableView表格視圖
 
 * 加入縮圖
 * 隱藏狀態列
@@ -36,7 +36,7 @@
 
 ## 05 - Food Pin
 
-### 使用UIAlertController與表格視圖互動
+### 使用 UIAlertController與表格視圖互動
 * 當使用者點擊一個Cell時，選單會提供兩種選項:打電話、(Call)與打卡(Check- in )
 * 當使用者選擇打電話、(Call)，顯示一個提示視窗
 * 當使用者選擇打卡(Check-in)，顯示一個打勾圖示
@@ -81,18 +81,18 @@
 ![image](http://g.recordit.co/zAHnPnBNRq.gif)
 
 
-### 建立UISearchController搜尋列
+### 建立 UISearchController搜尋列
 * 利用搜尋列搜尋相關詞字
 
 ![image](http://g.recordit.co/o596XE1frs.gif)
 
-### 使用UIPageViewController與容器視圖建立導覽畫面
+### 使用 UIPageViewController與容器視圖建立導覽畫面
 * 建立內容頁面，每一頁由自己的視圖控制器來處理
 * 以滑動切換，或者點擊NEXT按鈕來做導覽
 
 ![image](http://g.recordit.co/hda5gbPmc3.gif)
 
-### 建立Tab Bar Controller標籤列控制器
+### 建立 Tab Bar Controller標籤列控制器
 * 使用介面建構器來嵌入一組視圖控制器至標籤列控制器
 
 ![image](http://g.recordit.co/dNRZ4biTNp.gif)
@@ -130,5 +130,10 @@
 
     ![image](http://g.recordit.co/xOvL5n7z9A.gif)
 
+## 09 - JSON 與 Codable
 
+* 建⽴JSON資料模型
+* 使用API取得資料
+* 使用Codable對JSON資料進行解碼(decode)
 
+![image](http://g.recordit.co/IkXEVy9Q0d.gif)
