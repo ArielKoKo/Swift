@@ -131,9 +131,20 @@
     ![image](http://g.recordit.co/xOvL5n7z9A.gif)
 
 ## 09 - 運用JSON 與 Codable 建立 KivaLoan
-
 * 建⽴JSON資料模型
 * 使用API取得資料
 * 使用Codable對JSON資料進行解碼(decode)
 
 ![image](http://g.recordit.co/IkXEVy9Q0d.gif)
+
+## 10 - 整合 Twitter 與 Facebook SDK 實作分享功能
+* 在App中提供社群分享功能
+* 安裝Facebook SDK並使用Facebook API
+* 安裝並使用Twitter Kit
+
+
+
+
+
+
+
