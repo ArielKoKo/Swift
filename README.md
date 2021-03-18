@@ -149,4 +149,10 @@
 
 ![image](https://github.com/ArielKoKo/Swift/blob/main/PHOTO%20%26%20GIF/11_EmailAttachment.gif)
 
+## 12 - 在App中呈現結合SMS & MMS
+* 使用MessageUI進行SMS與MMS傳送
+
+![image]()
+
+
 
