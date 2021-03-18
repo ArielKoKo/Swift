@@ -142,8 +142,7 @@
 * 安裝Facebook SDK並使用Facebook API
 * 安裝並使用Twitter Kit
 
-
-
+![image](https://github.com/ArielKoKo/Swift/blob/main/PHOTO%20%26%20GIF/10_SocialSharing.gif)
 
 
 
