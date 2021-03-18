@@ -152,7 +152,7 @@
 ## 12 - 在App中呈現結合SMS & MMS
 * 使用MessageUI進行SMS與MMS傳送
 
-![image]()
+![image](https://github.com/ArielKoKo/Swift/blob/main/PHOTO%20%26%20GIF/12_SMSDemo.gif)
 
 
 
