@@ -154,5 +154,11 @@
 
 ![image](https://github.com/ArielKoKo/Swift/blob/main/PHOTO%20%26%20GIF/12_SMSDemo.gif)
 
+## 13 - 運用MKDirections在地圖上取得方位與顯示路徑
+* 在地圖上顯示使用者位置
+* 使用 MKDirections API 來取得路徑資訊並
+* 使用分段控制來顯示開車或是走路的路徑
+* 顯示路徑步驟
 
+![image](
 
