@@ -160,5 +160,5 @@
 * 使用分段控制來顯示開車或是走路的路徑
 * 顯示路徑步驟
 
-![image](
+![image](http://g.recordit.co/wYBDxhyQQf.gif)
 
