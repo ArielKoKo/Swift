@@ -52,25 +52,25 @@
   * 點擊check-in「✔️」按鈕顯示一個愛心圖示
   * 點擊check-in「↩」按鈕取消愛心圖示
 
-![image](http://g.recordit.co/IqlUHxMujg.gif)
+![image](https://github.com/ArielKoKo/Swift/blob/main/PHOTO%20%26%20GIF/05_Food%20Pin_2.gif)
 
 ### 導覽控制器
 * 運用導覽控制器覽到下一個顯示細節內容的畫面
 * 自訂導覽列
 
-![image](http://g.recordit.co/qE9EUp6pPb.gif)
+![image](https://github.com/ArielKoKo/Swift/blob/main/PHOTO%20%26%20GIF/05_Food%20Pin_3.gif)
 
 ### MapKit框架
 * 加入地圖介面
 * 利用地理編碼器將地址轉換為座標
 * 自訂標註
 
-![image](http://g.recordit.co/SOc4gSRjDh.gif)
+![image](https://github.com/ArielKoKo/Swift/blob/main/PHOTO%20%26%20GIF/05_Food%20Pin_4.gif)
 
 ### 基礎動畫
 * 滑入動畫
 
-![image](http://g.recordit.co/R1vKXa4fFF.gif)
+![image](https://github.com/ArielKoKo/Swift/blob/main/PHOTO%20%26%20GIF/05_Food%20Pin_5.gif)
 
 
 
@@ -78,31 +78,31 @@
 * 使用靜態表格視圖(Static Table View)建立表單
 * 使用 UIImagePickerController 來從內建的照片庫選擇照片
 
-![image](http://g.recordit.co/zAHnPnBNRq.gif)
+![image](https://github.com/ArielKoKo/Swift/blob/main/PHOTO%20%26%20GIF/05_Food%20Pin_6.gif)
 
 
 ### 建立 UISearchController搜尋列
 * 利用搜尋列搜尋相關詞字
 
-![image](http://g.recordit.co/o596XE1frs.gif)
+![image](https://github.com/ArielKoKo/Swift/blob/main/PHOTO%20%26%20GIF/05_Food%20Pin_7.gif)
 
 ### 使用 UIPageViewController與容器視圖建立導覽畫面
 * 建立內容頁面，每一頁由自己的視圖控制器來處理
 * 以滑動切換，或者點擊NEXT按鈕來做導覽
 
-![image](http://g.recordit.co/hda5gbPmc3.gif)
+![image](https://github.com/ArielKoKo/Swift/blob/main/PHOTO%20%26%20GIF/05_Food%20Pin_8.gif)
 
 ### 建立 Tab Bar Controller標籤列控制器
 * 使用介面建構器來嵌入一組視圖控制器至標籤列控制器
 
-![image](http://g.recordit.co/dNRZ4biTNp.gif)
+![image](https://github.com/ArielKoKo/Swift/blob/main/PHOTO%20%26%20GIF/05_Food%20Pin_9.gif)
 
 ### 在App中顯示網頁內容
 * Mobile Safari
 * UIWebView / WKWebView
 * SFSafariViewController
 
-![image](http://g.recordit.co/yzIa6S38ps.gif) ![image](http://g.recordit.co/gYLYYP1CGB.gif) ![image](http://g.recordit.co/Er6w9ebjnY.gif)
+![image](https://github.com/ArielKoKo/Swift/blob/main/PHOTO%20%26%20GIF/05_Food%20Pin_10.gif)
 
 ## 06 -  AdaptiveUI自適應使用者介面
 * 使用Storyboard來進行使用者介面元件的佈局，並且學習如何使用Auto Layout以及尺寸類別來讓UI可以自適應。
