@@ -114,28 +114,28 @@
 * 在UITableView加入區塊，將相關資料群組在一起，可以提供使用者更佳的資料存取方式。
 * 在表格視圖的右邊有包含一個索引列表，使用者可以在不需要滑動每一個區塊的情況下，迅速存取特定的表格區塊。
 
-![image](http://g.recordit.co/lrTYN0Vgb5.gif)
+![image](https://github.com/ArielKoKo/Swift/blob/main/PHOTO%20%26%20GIF/07_IndexedTable.gif)
 
 ## 08 - TableCellAnimation
 * 讓表格視圖Cell動起來，透過加入一些精緻的動畫來讓App更生動活潑。
   * 淡入動畫                                                                           
 
-    ![image](http://g.recordit.co/k2ZgVDrfvi.gif)
+    ![image](https://github.com/ArielKoKo/Swift/blob/main/PHOTO%20%26%20GIF/08_TableCellAnimation_1.gif)
 
   * 旋轉動畫
 
-    ![image](http://g.recordit.co/OKZvIHd5Dg.gif)
+    ![image](https://github.com/ArielKoKo/Swift/blob/main/PHOTO%20%26%20GIF/08_TableCellAnimation_2.gif)
 
   * 飛入特效
 
-    ![image](http://g.recordit.co/xOvL5n7z9A.gif)
+    ![image](https://github.com/ArielKoKo/Swift/blob/main/PHOTO%20%26%20GIF/08_TableCellAnimation_3.gif)
 
 ## 09 - 運用JSON 與 Codable 建立 KivaLoan
 * 建⽴JSON資料模型
 * 使用API取得資料
 * 使用Codable對JSON資料進行解碼(decode)
 
-![image](http://g.recordit.co/IkXEVy9Q0d.gif)
+![image](https://github.com/ArielKoKo/Swift/blob/main/PHOTO%20%26%20GIF/09_KivaLoan.gif)
 
 ## 10 - 整合 Twitter 與 Facebook SDK 實作分享功能
 * 在App中提供社群分享功能
@@ -160,5 +160,5 @@
 * 使用分段控制來顯示開車或是走路的路徑
 * 顯示路徑步驟
 
-![image](http://g.recordit.co/wYBDxhyQQf.gif)
+![image](https://github.com/ArielKoKo/Swift/blob/main/PHOTO%20%26%20GIF/13_MKDirections.gif)
 
